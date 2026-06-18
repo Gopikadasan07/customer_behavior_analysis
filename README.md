@@ -74,6 +74,6 @@ Step 6: Power BI
 Open .pbix file in Power BI Desktop
 Refresh data source if required
 📌 Author
-Name: Your Name
+Name: K.GOPIKA DASAN 
 Role: Data Analyst (Fresher)
-Skills: Python, SQL, Power BI, Data Visualization
+Skills: Python, SQL, Power BI, Data Visualization,Excel
