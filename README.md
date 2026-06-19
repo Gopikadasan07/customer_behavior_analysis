@@ -50,7 +50,7 @@ Trend analysis
 Category-wise breakdown
 Filters for dynamic insights
 
-(Add screenshot here if available)
+
 
 📈 Results & Insights
 Identified key trends in the dataset
